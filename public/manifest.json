@@ -1,0 +1,33 @@
+{
+    "name": "pwa demo",
+    "short_name": "pwa",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "black",
+    "theme_color": "red",
+    "orientation": "portrait-primary",
+    "description": "A pwa demo",
+    "icons": [
+        {
+            "src": "./vite.svg",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "./vite.svg",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "./vite.svg",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./vite.svg",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+}
